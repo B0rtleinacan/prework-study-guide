@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Pre-work Study Guide
 
 ## Description
 
